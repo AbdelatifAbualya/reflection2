@@ -1,0 +1,39 @@
+{
+  "name": "reflection2-dual-model-rci",
+  "version": "1.0.0",
+  "description": "Dual-Model RCI System: DeepSeek V3 + Qwen 2.5-72B Collaborative Intelligence",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required for static site'",
+    "start": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "vercel": "^32.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/reflection2.git"
+  },
+  "keywords": [
+    "ai",
+    "coding",
+    "deepseek",
+    "qwen",
+    "dual-model",
+    "rci",
+    "reflexive-code-intelligence",
+    "assistant",
+    "vercel"
+  ],
+  "author": "",
+  "license": "MIT"
+}
